@@ -1,6 +1,9 @@
 # Spotify DJ 
 announces title and artist before each song
 
+
+idk how to make apps so just clone this whole repository and open in vscode to use it <3
+
 ## Imports
 
 ``` 
